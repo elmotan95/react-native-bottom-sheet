@@ -8,9 +8,9 @@ export const styles = StyleSheet.create({
 
   indicator: {
     alignSelf: 'center',
-    width: (7.5 * WINDOW_WIDTH) / 100,
+    width: 74,
     height: 4,
     borderRadius: 4,
-    backgroundColor: 'rgba(0, 0, 0, 0.75)',
+    backgroundColor: '#D6D6D6',
   },
 });
